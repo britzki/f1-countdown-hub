@@ -44,6 +44,16 @@ f1-countdown-hub/
 
 ---
 
+## Screenshots
+
+![Dashboard](./screenshots/f1-countdown-hub-calendar-1.png)
+![Countdown](./screenshots/f1-countdown-hub-calendar-2.png)
+![Dashboard](./screenshots/f1-countdown-hub-night-mode.png)
+![Countdown](./screenshots/f1-countdown-hub-profile-1.png)
+![Dashboard](./screenshots/f1-countdown-hub-profile-2.png)
+![Countdown](./screenshots/f1-countdown-hub-standings-1.png)
+![Countdown](./screenshots/f1-countdown-hub-standings-2.png)
+
 ## Getting Started
 
 ### Prerequisites
