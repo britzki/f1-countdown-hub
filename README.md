@@ -105,7 +105,7 @@ cd client && npm run dev
 
 ## Live Demo
 
-[Coming soon]
+https://f1-countdown-hub.vercel.app/
 
 ---
 
